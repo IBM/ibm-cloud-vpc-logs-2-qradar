@@ -1,10 +1,10 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+First release of VPC Flow logs to QRadar project
 
 ## [Unreleased]
 
-## [0.0.1] - 2019-02-15
+## [0.0.1] - 2020-02-08
 
 ### Added
 - Added a changelog
