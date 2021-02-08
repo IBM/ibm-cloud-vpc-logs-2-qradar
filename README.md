@@ -9,12 +9,12 @@ The purpose of this project is to provide a mechanism for ingesting IBM Cloud VP
 
 # IBM Cloud
 
-1. IBM Cloud User account with privileges to:
-    a. Create and configure IBM Cloud Object Storage instances and buckets.
-    b. Create and configure IBM LogDNA
-    c. Create and configure IBM Cloud Functions
+IBM Cloud User account with privileges to:
+1. Create and configure IBM Cloud Object Storage instances and buckets.
+2. Create and configure IBM LogDNA
+3. Create and configure IBM Cloud Functions
 
-2. IBM Cloud Service Accounts
+IBM Cloud Service Accounts
     When configuring IBM Cloud VPC Flow logs to use IBM Fucntions Triggers & Actions and Cloud Object Storage you will need to configure service IDs with the appropriate privileges. Refer to the About IBM Cloud Flow Logs for VPC (https://cloud.ibm.com/docs/vpc?topic=vpc-flow-logs&locale=en) and integrating Cloud Functions with Cloud Obeject Storage (https://cloud.ibm.com/docs/openwhisk?topic=openwhisk-pkg_obstorage) for steps for creating the appropriate service IDs.
 
 # QRadar
