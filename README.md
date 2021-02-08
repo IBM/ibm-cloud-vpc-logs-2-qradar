@@ -26,7 +26,7 @@ IBM Cloud Service Accounts
 ## Sending IBM Cloud VPC Flow Logs to LogDNA
 There are options for how to send the VPC Flow logs to Log DNA.
 1. Use the instructions outlined at  https://github.com/IBM-Cloud/vpc-flowlogs-logdna.
-2. Use the example action in this repo ibm-cloud-function/ibm-cloud-function-action.py. *Note the provided Example QRadar DSM was created based upon using this example.
+2. Use the example action in this repo ibm-cloud-function/ibm-cloud-function-action.py. *Note the provided [Example QRadar DSM](https://github.com/IBM/ibm-cloud-vpc-logs-2-qradar/blob/master/IBM%20Cloud%20LogDNA%20for%20VPC%20Flow%20Logs-20210208104351.zip) was created based upon using this example.
 
 
 ## Setup QRadar using the Universal Cloud REST API
