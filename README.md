@@ -15,7 +15,7 @@ IBM Cloud User account with privileges to:
 3. Create and configure IBM Cloud Functions
 
 IBM Cloud Service Accounts
-    When configuring IBM Cloud VPC Flow logs to use IBM Fucntions Triggers & Actions and Cloud Object Storage you will need to configure service IDs with the appropriate privileges. Refer to the About IBM Cloud Flow Logs for VPC (https://cloud.ibm.com/docs/vpc?topic=vpc-flow-logs&locale=en) and integrating Cloud Functions with Cloud Obeject Storage (https://cloud.ibm.com/docs/openwhisk?topic=openwhisk-pkg_obstorage) for steps for creating the appropriate service IDs.
+    When configuring IBM Cloud VPC Flow logs to use IBM Fucntions Triggers & Actions and Cloud Object Storage you will need to configure service IDs with the appropriate privileges. Refer to the [About IBM Cloud Flow Logs for VPC](https://cloud.ibm.com/docs/vpc?topic=vpc-flow-logs&locale=en) and integrating [Cloud Functions with Cloud Obeject Storage](https://cloud.ibm.com/docs/openwhisk?topic=openwhisk-pkg_obstorage) for steps for creating the appropriate service IDs.
 
 ## QRadar
 1. IBM QRadar 7.4 or higher
