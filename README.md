@@ -5,9 +5,9 @@
 
 The purpose of this project is to provide a mechanism for ingesting IBM Cloud VPC Flow Logs into QRadar.
 
-## Pre-Requisites
+# Pre-Requisites
 
-# IBM Cloud
+## IBM Cloud
 
 IBM Cloud User account with privileges to:
 1. Create and configure IBM Cloud Object Storage instances and buckets.
@@ -17,11 +17,11 @@ IBM Cloud User account with privileges to:
 IBM Cloud Service Accounts
     When configuring IBM Cloud VPC Flow logs to use IBM Fucntions Triggers & Actions and Cloud Object Storage you will need to configure service IDs with the appropriate privileges. Refer to the About IBM Cloud Flow Logs for VPC (https://cloud.ibm.com/docs/vpc?topic=vpc-flow-logs&locale=en) and integrating Cloud Functions with Cloud Obeject Storage (https://cloud.ibm.com/docs/openwhisk?topic=openwhisk-pkg_obstorage) for steps for creating the appropriate service IDs.
 
-# QRadar
+## QRadar
 1. IBM QRadar 7.4 or higher
 2. IBM QRadar user account with privileges to create/modify log sources and create/modify DSMs.
 
-
+# Setup
 
 ## Sending IBM Cloud VPC Flow Logs to LogDNA
 There are options for how to send the VPC Flow logs to Log DNA.
